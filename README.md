@@ -45,12 +45,16 @@ References
   O. Ledoit and M. Wolf https://ssrn.com/abstract=3047302 or http://dx.doi.org/10.2139/ssrn.3047302
  
  
-Installing from PyPI
+Installing
 --------------------
 
-Try
+PyPi:
 
 ```pip install pyRMT```
+
+Or alternatively via conda:
+
+```conda install conda-forge::pyrmt```
 
 To install manually from the git repo, try this:
 
